@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.6.2",
+  "latest_version": "2.6.3",
   "download_url": "https://www.baidu.com",
   "announcement": "",
-  "update_log": "🚀 2.6.2 版本更新日志：\n1. 这是一个测试更新功能\n2. 修复了若干已知 Bug\n3. 优化了节点连接速度",
+  "update_log": "🚀 2.6.3 版本更新日志：\n1. 这是一个测试更新功能\n2. 修复了若干已知 Bug\n3. 优化了节点连接速度",
   "force_update": false,
   "update_url": "https://o2210d.021888001.xyz"
 }
